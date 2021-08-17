@@ -17,5 +17,4 @@ This Portfolio contains contact information for me. It also displays my body of 
 The following is a screenshot of the About me page of the portfolio application.
 
 
-
 The following is a screenshot of the Projects page of the portfolio application.
