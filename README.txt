@@ -15,6 +15,8 @@ This Portfolio contains contact information for me. It also displays my body of 
 # Screenshots
 
 The following is a screenshot of the About me page of the portfolio application.
+https://github.com/wleivax/Portfolio-Resume/blob/main/images/thumbs/portfolio%201.png
 
 
 The following is a screenshot of the Projects page of the portfolio application.
+https://github.com/wleivax/Portfolio-Resume/blob/main/images/thumbs/portfolio%202.png
